@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ngershenson
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning with help from App Academy
+- 👋 Hi, I’m @ngershenson and I'm a Software Quality Assurance Associate at Power Home Remodeling Group
+- 👀 I’m interested in Full Stack Development and Testing
+- 🌱 I’m currently learning React and Rails
 - 📫 How to reach me ndgershe@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love chess!
